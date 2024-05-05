@@ -1,5 +1,7 @@
-# Drone-RL-Control
+# Autonomous Drone Navigation
 The GitHub Repository for the Simulation &amp; Control of a Drone using Reinforcement Learning Techniques in a ROS2 Environment.
+
+**NOTE:** This repository has been mirrored from https://github.com/melaniayoo/Drone-RL-Control, which was the original space for collaboration.
 
 ## Project Description
 This repository helps train a quadcopter to find the best way around a path. The robot is equipped with a LiDAR, IMU &amp; GPS sensor.
